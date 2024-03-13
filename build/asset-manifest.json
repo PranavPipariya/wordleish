@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06087bd8.css",
+    "main.js": "/static/js/main.beffb940.js",
+    "static/js/787.b7eb5c8c.chunk.js": "/static/js/787.b7eb5c8c.chunk.js",
+    "static/media/wordle-bank.txt": "/static/media/wordle-bank.d2dd32963d536b5194e6.txt",
+    "index.html": "/index.html",
+    "main.06087bd8.css.map": "/static/css/main.06087bd8.css.map",
+    "main.beffb940.js.map": "/static/js/main.beffb940.js.map",
+    "787.b7eb5c8c.chunk.js.map": "/static/js/787.b7eb5c8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06087bd8.css",
+    "static/js/main.beffb940.js"
+  ]
+}
